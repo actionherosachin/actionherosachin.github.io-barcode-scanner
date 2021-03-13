@@ -1,1 +1,2 @@
-# actionherosachin.github.io-barcode-scanner
+# AutoPopulateTextInput
+Tab Bar icons and auto-populate text
